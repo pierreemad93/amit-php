@@ -1,0 +1,15 @@
+/*Start login-form*/
+.login-form{
+    margin: 200px 0;
+}
+/*End login-form*/
+/*Start Dashboard*/
+ .dashboard .member{
+     background-color: #27ae60;
+     color: #fff;
+     font-size: 25px;
+ }
+.dashboard .member span{
+    font-size: 44px;
+}
+/*End Dashboard*/
